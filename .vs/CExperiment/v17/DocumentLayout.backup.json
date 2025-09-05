@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -30,9 +26,9 @@
               "Title": "Assignment1.cpp",
               "DocumentMoniker": "D:\\CProject\\CExperiment\\CExperiment\\day1\\Assignment1.cpp",
               "RelativeDocumentMoniker": "CExperiment\\day1\\Assignment1.cpp",
-              "ToolTip": "D:\\CProject\\CExperiment\\CExperiment\\day1\\Assignment1.cpp",
-              "RelativeToolTip": "CExperiment\\day1\\Assignment1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\CProject\\CExperiment\\CExperiment\\day1\\Assignment1.cpp*",
+              "RelativeToolTip": "CExperiment\\day1\\Assignment1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-05T03:42:12.864Z",
               "EditorCaption": ""
