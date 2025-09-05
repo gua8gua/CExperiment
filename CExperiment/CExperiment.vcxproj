@@ -124,6 +124,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="day1\Assignment1.cpp" />
+    <ClCompile Include="day1\Assignment2.cpp" />
+    <ClCompile Include="day1\Assignment3.cpp" />
+    <ClCompile Include="day2\RandomDeal.cpp" />
+    <ClCompile Include="day3\ValidateAddress.cpp" />
+    <ClCompile Include="day4\MergeList.cpp" />
+    <ClCompile Include="day5\LinkListTest.cpp" />
+    <ClCompile Include="day6\SearchTreeTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

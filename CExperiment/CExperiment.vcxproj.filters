@@ -18,5 +18,26 @@
     <ClCompile Include="day1\Assignment1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="day1\Assignment2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day1\Assignment3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day4\MergeList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day2\RandomDeal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day3\ValidateAddress.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day5\LinkListTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day6\SearchTreeTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,25 +1,25 @@
 #include <stdio.h>
 
-int main(void) {
-    int months = 12;              // 一年
-    long long prev2 = 1;          // F(1)
-    long long prev1 = 1;          // F(2)
-    if (months == 1) {
-        printf("Month 1: 1\nTotal: 1\n");
-        return 0;
-    }
+int calculateRabbitsNum(int months = 12) {   
+    long long prev2 = 1;       
+    long long prev1 = 1;      
 
-    printf("Month 1: %lld\n", prev2);
-    printf("Month 2: %lld\n", prev1);
+    if (months < 0)
+        return 0;
+
+    printf("1月: %lld\n", prev2);
+    if(months > 1)
+        printf("2月: %lld\n", prev1);
 
     long long cur = prev1;
+    //上个月兔子 + 成年兔子
     for (int m = 3; m <= months; ++m) {
-        cur = prev1 + prev2;      // F(n) = F(n-1) + F(n-2)
-        printf("Month %d: %lld\n", m, cur);
+        cur = prev1 + prev2;   
+        printf("%d月: %lld\n", m, cur);
         prev2 = prev1;
         prev1 = cur;
     }
 
-    printf("After %d months: %lld pairs of rabbits\n", months, cur);
-    return 0;
+    printf("共有兔子%lld对\n",  cur);
+    return cur;
 }
