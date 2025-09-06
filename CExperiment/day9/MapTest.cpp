@@ -7,13 +7,13 @@
 
 // 邻接表的边节点
 typedef struct EdgeNode {
-    int adjvex;                // 该边指向的顶点下标
+    int adjvex;                // 顶点下标
     struct EdgeNode* next;     // 下一个边节点
 } EdgeNode;
 
 // 邻接表的顶点节点
 typedef struct VertexNode {
-    char name[20];             // 节点名字 MapX
+    char name[20];             // 节点名
     EdgeNode* firstEdge;       // 边表头指针
 } VertexNode;
 
@@ -23,7 +23,7 @@ typedef struct {
     int numVertexes;
 } Graph;
 
-// 队列（用于BFS）
+// 队列
 typedef struct {
     int data[MAX];
     int front, rear;
@@ -39,7 +39,7 @@ int QueueEmpty(Queue* q) {
 }
 
 void EnQueue(Queue* q, int e) {
-    if ((q->rear + 1) % MAX == q->front) return; // 队列满
+    if ((q->rear + 1) % MAX == q->front) return;
     q->data[q->rear] = e;
     q->rear = (q->rear + 1) % MAX;
 }
@@ -51,7 +51,7 @@ int DeQueue(Queue* q) {
     return e;
 }
 
-// 建立图：输入邻接矩阵并转为邻接表
+// 创建图
 void CreateGraph(Graph* G, int matrix[MAX][MAX], int n) {
     G->numVertexes = n;
     for (int i = 0; i < n; i++) {
