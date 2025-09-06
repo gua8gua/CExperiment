@@ -38,3 +38,7 @@ void printFactorial() {
         printBigInt(num, len);
     }
 }
+
+//void main() {
+//    printFactorial();
+//}

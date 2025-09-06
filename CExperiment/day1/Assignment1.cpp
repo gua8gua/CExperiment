@@ -23,3 +23,9 @@ int calculateRabbitsNum(int months = 12) {
     printf("共有兔子%lld对\n",  cur);
     return cur;
 }
+
+//int main() {
+//    int months = 12;
+//    calculateRabbitsNum(months);
+//    return 0;
+//}

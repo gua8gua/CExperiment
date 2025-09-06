@@ -31,3 +31,7 @@ void printYangHui() {
         printf("\n");
     }
 }
+
+//void main() {
+//    printYangHui();
+//}

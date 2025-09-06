@@ -78,6 +78,6 @@ void planeBuildMenu() {
 
 }
 
-int main() {
-    planeBuildMenu();
-}
+//int main() {
+//    planeBuildMenu();
+//}
