@@ -48,5 +48,14 @@
     <ClCompile Include="day9\MapTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="day10\MovieExpend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day11\PlaneBuild.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day12\DemolateBuilding.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

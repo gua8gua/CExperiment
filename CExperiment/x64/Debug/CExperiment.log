@@ -1,3 +1,10 @@
-﻿  MapTest.cpp
-D:\CProject\CExperiment\CExperiment\day9\MapTest.cpp(145,6): warning C4326: “main”的返回类型应为“int”而非“void”
+﻿  PlaneBuild.cpp
+D:\CProject\CExperiment\CExperiment\day11\PlaneBuild.cpp(75,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+      D:\CProject\CExperiment\CExperiment\day11\PlaneBuild.cpp(75,12):
+      请考虑在格式字符串中使用“%lld”
+      D:\CProject\CExperiment\CExperiment\day11\PlaneBuild.cpp(75,12):
+      请考虑在格式字符串中使用“%Id”
+      D:\CProject\CExperiment\CExperiment\day11\PlaneBuild.cpp(75,12):
+      请考虑在格式字符串中使用“%I64d”
+  
   CExperiment.vcxproj -> D:\CProject\CExperiment\x64\Debug\CExperiment.exe

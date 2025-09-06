@@ -123,6 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="day10\MovieExpend.cpp" />
+    <ClCompile Include="day11\PlaneBuild.cpp" />
+    <ClCompile Include="day12\DemolateBuilding.cpp" />
     <ClCompile Include="day1\Assignment1.cpp" />
     <ClCompile Include="day1\Assignment2.cpp" />
     <ClCompile Include="day1\Assignment3.cpp" />

@@ -29,7 +29,7 @@ typedef struct {
     int front, rear;
 } Queue;
 
-// 初始化队列
+// 队列
 void InitQueue(Queue* q) {
     q->front = q->rear = 0;
 }
@@ -51,7 +51,7 @@ int DeQueue(Queue* q) {
     return e;
 }
 
-// 创建图
+// 创建图,0表示无边
 void CreateGraph(Graph* G, int matrix[MAX][MAX], int n) {
     G->numVertexes = n;
     for (int i = 0; i < n; i++) {
@@ -142,6 +142,6 @@ void mapTestMenu() {
     return ;
 }
 
-void main() {
-    mapTestMenu();
-}
+//void main() {
+//    mapTestMenu();
+//}
