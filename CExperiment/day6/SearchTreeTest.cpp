@@ -96,8 +96,7 @@ void freeTree(TreeNode* root) {
     }
 }
 
-// 主程序
-int main() {
+void treeTestMenu() {
     TreeNode* root = NULL;
     int choice, val, n;
 
@@ -158,5 +157,9 @@ int main() {
         }
     }
 
-    return 0;
 }
+
+// 主程序
+//void main() {
+//    treeTestMenu();
+//}

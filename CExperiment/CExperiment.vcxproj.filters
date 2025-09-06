@@ -39,5 +39,14 @@
     <ClCompile Include="day6\SearchTreeTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="day7\ReversePolish.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day8\DancerMatch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day9\MapTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

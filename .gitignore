@@ -1,0 +1,48 @@
+# Visual Studio cache folders
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Others
+*.dbmdl
+*.bak
+*.log
+*.vsidx
+*.VC.db
+*.opendb
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore test results
+TestResults/
+
+# Ignore publish profiles
+*.pubxml
+*.publishproj
