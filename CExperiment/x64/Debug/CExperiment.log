@@ -1,5 +1,57 @@
-﻿  Assignment1.cpp
-D:\CProject\CExperiment\CExperiment\day1\Assignment1.cpp(24,12): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+﻿  MovieExpend.cpp
+  PlaneBuild.cpp
+  DemolateBuilding.cpp
+  Assignment1.cpp
+  Assignment2.cpp
+\day10\MovieExpend.cpp(1,1): error C1083: 无法打开源文件: “day10\MovieExpend.cpp”: No such file or directory
+  Assignment3.cpp
+  (编译源文件“/day10/MovieExpend.cpp”)
+  
+\day11\PlaneBuild.cpp(1,1): error C1083: 无法打开源文件: “day11\PlaneBuild.cpp”: No such file or directory
+  (编译源文件“/day11/PlaneBuild.cpp”)
+  
+\day12\DemolateBuilding.cpp(1,1): error C1083: 无法打开源文件: “day12\DemolateBuilding.cpp”: No such file or directory
+  (编译源文件“/day12/DemolateBuilding.cpp”)
+  
+\day1\Assignment1.cpp(1,1): error C1083: 无法打开源文件: “day1\Assignment1.cpp”: No such file or directory
+  (编译源文件“/day1/Assignment1.cpp”)
+  
+\day1\Assignment2.cpp(1,1): error C1083: 无法打开源文件: “day1\Assignment2.cpp”: No such file or directory
+  (编译源文件“/day1/Assignment2.cpp”)
+  
+\day1\Assignment3.cpp(1,1): error C1083: 无法打开源文件: “day1\Assignment3.cpp”: No such file or directory
+  (编译源文件“/day1/Assignment3.cpp”)
+  
   RandomDeal.cpp
+\day2\RandomDeal.cpp(1,1): error C1083: 无法打开源文件: “day2\RandomDeal.cpp”: No such file or directory
+  (编译源文件“/day2/RandomDeal.cpp”)
+  
+  ValidateAddress.cpp
+\day3\ValidateAddress.cpp(1,1): error C1083: 无法打开源文件: “day3\ValidateAddress.cpp”: No such file or directory
+  (编译源文件“/day3/ValidateAddress.cpp”)
+  
+  MergeList.cpp
+\day4\MergeList.cpp(1,1): error C1083: 无法打开源文件: “day4\MergeList.cpp”: No such file or directory
+  (编译源文件“/day4/MergeList.cpp”)
+  
+  LinkListTest.cpp
+\day5\LinkListTest.cpp(1,1): error C1083: 无法打开源文件: “day5\LinkListTest.cpp”: No such file or directory
+  (编译源文件“/day5/LinkListTest.cpp”)
+  
+  SearchTreeTest.cpp
+\day6\SearchTreeTest.cpp(1,1): error C1083: 无法打开源文件: “day6\SearchTreeTest.cpp”: No such file or directory
+  (编译源文件“/day6/SearchTreeTest.cpp”)
+  
+  ReversePolish.cpp
+\day7\ReversePolish.cpp(1,1): error C1083: 无法打开源文件: “day7\ReversePolish.cpp”: No such file or directory
+  (编译源文件“/day7/ReversePolish.cpp”)
+  
+  DancerMatch.cpp
+\day8\DancerMatch.cpp(1,1): error C1083: 无法打开源文件: “day8\DancerMatch.cpp”: No such file or directory
+  (编译源文件“/day8/DancerMatch.cpp”)
+  
+  MapTest.cpp
+\day9\MapTest.cpp(1,1): error C1083: 无法打开源文件: “day9\MapTest.cpp”: No such file or directory
+  (编译源文件“/day9/MapTest.cpp”)
+  
   正在生成代码...
-  CExperiment.vcxproj -> D:\CProject\CExperiment\x64\Debug\CExperiment.exe

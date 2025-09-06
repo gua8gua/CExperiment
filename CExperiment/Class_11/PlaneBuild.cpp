@@ -19,7 +19,7 @@ void planeBuildMenu() {
     int n, m;
 
     // 数据读取
-    FILE* fp = fopen("D://CProject//CExperiment//CExperiment//day11//input.txt", "r");
+    FILE* fp = fopen("D://CProject//CExperiment//CExperiment//Class_11//input.txt", "r");
     if (!fp) {
         printf("无法打开文件\n");
         return;

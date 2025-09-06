@@ -24,8 +24,8 @@ int calculateRabbitsNum(int months = 12) {
     return cur;
 }
 
-//int main() {
-//    int months = 12;
-//    calculateRabbitsNum(months);
-//    return 0;
-//}
+int main() {
+    int months = 12;
+    calculateRabbitsNum(months);
+    return 0;
+}
